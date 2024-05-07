@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "install": "pnpm install"
+    "lint": "next lint"
   },
   "dependencies": {
     "@types/node": "20.4.1",
@@ -31,7 +30,6 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-prettier": "4.2.1",
-    "pnpm": "^9.1.0",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.3.0"
   }
